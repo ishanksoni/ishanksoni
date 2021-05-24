@@ -16,12 +16,4 @@
 <img src="https://media.giphy.com/media/3o6ZtbdY6g0V8utOx2/giphy.gif" width="200" align="centre" >
 
                                                                                         
-- :bow: Meet Ishank , A 3rd year CSE B-tech student From IIITVADODARA    
-- 🌱 You'll most probably found him on Computer doing some crazy stuffs  
-- 👯 He is currently working on Problem Solving and Web Dev 
-- 🌱 Now a days, he is  learning [React](https://reactjs.org/) for a Beautiful UI-Frontend. 
-- :heart_eyes_cat: He likes to learn new things thus me(Github),Youtube,Twitter are his close Friends  
-- 💬 Ask him about Python ,C plus plus, DSA , and Marvel-CU.  
-- 😋 If not programmer , He would have been a Physics Teacher.  
-- ⚡ Fun fact: He writes his first code for a spring-mass system animation,But he didn't know in which language?? ofcourse that was JS :laughing: ...  
-
+- :bow: Meet Ishank , A 3rd year CSE B-tech student From IIITVADODARA 
