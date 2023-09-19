@@ -14,6 +14,3 @@
 
 
 <img src="https://media.giphy.com/media/3o6ZtbdY6g0V8utOx2/giphy.gif" width="200" align="centre" >
-
-                                                                                        
-- :bow: Meet Ishank , A 3rd year CSE B-tech student From IIITVADODARA 
